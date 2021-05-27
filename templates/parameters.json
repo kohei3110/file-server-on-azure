@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_file_server_onp_name": {
+            "value": null
+        },
+        "virtualMachines_file_server_vm_1_name": {
+            "value": null
+        },
+        "virtualMachines_file_server_vm_2_name": {
+            "value": null
+        },
+        "virtualNetworks_file_server_vnet_name": {
+            "value": null
+        },
+        "virtualMachines_file_client_onp_1_name": {
+            "value": null
+        },
+        "virtualMachines_file_client_onp_2_name": {
+            "value": null
+        },
+        "storageSyncServices_file_sync_name": {
+            "value": null
+        },
+        "storageAccounts_filesrvstrageaccount_name": {
+            "value": null
+        },
+        "networkInterfaces_file_server_vm_1639_name": {
+            "value": null
+        },
+        "networkInterfaces_file_server_vm_2567_name": {
+            "value": null
+        },
+        "publicIPAddresses_file_server_vm_1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_file_server_vm_2_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_file_client_onp_1523_name": {
+            "value": null
+        },
+        "networkInterfaces_file_client_onp_2350_name": {
+            "value": null
+        },
+        "publicIPAddresses_file_client_onp_1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_file_client_onp_2_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_file_server_vm_1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_file_server_vm_2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_file_client_onp_1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_file_client_onp_2_nsg_name": {
+            "value": null
+        },
+        "loadBalancers_file_server_public_loadbalancer_name": {
+            "value": null
+        },
+        "publicIPAddresses_file_server_loadbalancer_public_ip_name": {
+            "value": null
+        }
+    }
+}
