@@ -163,7 +163,7 @@ Azure Storage アカウントは、 2 章で行った検証と同一のものを
 ### 3. Azure NetApp Files を利用するパターン
 ![alt text](./images/azure_netapps_architecture.png)
 
-[WIP] 社内環境では、 Azure NetApp Files に対してサブスクリプションが有効化されていなかった。。。
+検証環境では、 Azure NetApp Files に対してサブスクリプションが有効化されていなかったため、省略。
 
 ![alt text](./images/azure_netapps_not_validate_in_subscription.png)
 
